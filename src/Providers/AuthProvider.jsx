@@ -17,7 +17,7 @@ const AuthProvider = ({children}) => {
         setLoading(true);
         return signInWithEmailAndPassword(auth,email,password);
     }
-    const googleSignIn=()=>{
+    const googleLogin=()=>{
         return signInWithPopup(auth, googleProvider);
     }
     const logout=()=>{
@@ -34,7 +34,7 @@ const AuthProvider = ({children}) => {
     useEffect(()=>{
         const unSubscribe = onAuthStateChanged(auth, currentUser=>{
             setUser(currentUser);
-            console.log('current user ',currentUser);
+            console.log('current user',currentUser);
             setLoading(false)
         })
         return ()=>{
@@ -48,7 +48,7 @@ const AuthProvider = ({children}) => {
         setLoading,
         register,
         login,
-        googleSignIn,
+        googleLogin,
         logout,
         profileUpdate
     }
