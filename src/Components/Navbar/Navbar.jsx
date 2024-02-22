@@ -52,7 +52,7 @@ const Navbar = () => {
         </NavLink>
       </li>
 {/* drop down nav */}
-    {
+    {/* {
         user ?
     <>
       <li tabIndex={0} className="z-10">
@@ -67,7 +67,7 @@ const Navbar = () => {
                     </>
                 }
                 <li><NavLink to="/courses" className={({ isActive, isPending }) => isPending ? "pending" : isActive ? "underline md:no-underline bg-inherit md:bg-slate-800 md:py-[6px] px-3 font-semibold rounded-md text-cyan-600 md:text-white" : "" }>All Courses</NavLink>
-      </li>
+      </li> */}
       {/* {
         user && <>
           <li><NavLink to="/myAssignments" className={({ isActive, isPending }) =>isPending ? "pending": isActive ? "underline md:no-underline bg-inherit md:bg-slate-800 md:py-[6px] px-3 font-semibold rounded-md text-cyan-600 md:text-white" : "" }>My Notes</NavLink></li>
@@ -79,15 +79,18 @@ const Navbar = () => {
         </>
       } */}
                 
-            </ul>
+            {/* </ul>
             </details>
         </li>
         </>:
         <li><NavLink to="/courses" className={({ isActive, isPending }) => isPending ? "pending" : isActive ? "underline md:no-underline bg-inherit md:bg-slate-800 md:py-[6px] px-3 font-semibold rounded-md text-cyan-600 md:text-white" : "" }>All Courses</NavLink>
         </li>
-        }
+        } */}
         {/* end here */}
-      
+        {user && 
+        <li><NavLink to="/myCart" className={({ isActive, isPending }) =>isPending ? "pending": isActive ? "underline md:no-underline bg-inherit md:bg-slate-800 md:py-[6px] px-3 font-semibold rounded-md text-cyan-600 md:text-white" : "" }>My Cart</NavLink></li>
+        }
+        <li><NavLink to="/addProduct" className={({ isActive, isPending }) =>isPending ? "pending": isActive ? "underline md:no-underline bg-inherit md:bg-slate-800 md:py-[6px] px-3 font-semibold rounded-md text-cyan-600 md:text-white" : "" }>Add Product</NavLink></li>
       <li><NavLink to="/register" className={({ isActive, isPending }) =>isPending ? "pending": isActive ? "underline md:no-underline bg-inherit md:bg-slate-800 md:py-[6px] px-3 font-semibold rounded-md text-cyan-600 md:text-white" : "" }>Register</NavLink></li>
     </>
   );
@@ -97,7 +100,7 @@ const Navbar = () => {
           <div className="flex justify-between items-center">
             <div className="flex items-center justify-center gap-1 md:gap-2">
                 <img className="w-16 md:w-20" src={logo} alt="" />
-                <h2 className="font-extrabold text-lg md:text-2xl lg:text-4xl text-orange-500">NoteFusion</h2>
+                <h2 className="font-extrabold text-lg md:text-2xl lg:text-4xl text-orange-500">Excuisive Wear</h2>
             </div>
     
             <ul

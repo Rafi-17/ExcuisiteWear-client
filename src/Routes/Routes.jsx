@@ -20,7 +20,15 @@ const Routes = createBrowserRouter([
         {
             path: '/register',
             element: <Register></Register>
-        }
+        },
+        {
+            path: '/myCart',
+            element: <Register></Register>
+        },
+        {
+            path: '/addProduct',
+            element: <Register></Register>
+        },
       ]
     },
   ]);
