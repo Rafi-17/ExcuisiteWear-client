@@ -100,7 +100,7 @@ const Navbar = () => {
           <div className="flex justify-between items-center">
             <div className="flex items-center justify-center gap-1 md:gap-2">
                 <img className="w-16 md:w-20" src={logo} alt="" />
-                <h2 className="font-extrabold text-lg md:text-2xl lg:text-4xl text-orange-500">Excuisive Wear</h2>
+                <h2 className="font-extrabold text-lg md:text-2xl lg:text-4xl text-orange-500">Exquisive Wear</h2>
             </div>
     
             <ul

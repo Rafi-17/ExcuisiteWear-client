@@ -1,0 +1,283 @@
+[
+    {
+      "image": "https://example.com/image1.jpg",
+      "name": "Men's Classic Crewneck Sweater",
+      "type": "Sweater",
+      "price": "$59.99",
+      "rating": 4.8,
+      "brand": "Exquisite Wear",
+      "details": "Stay cozy and stylish with this classic crewneck sweater. Made from soft, breathable fabric, it offers warmth without sacrificing comfort.",
+      "category": "regular"
+    },
+    {
+      "image": "https://example.com/image2.jpg",
+      "name": "Women's Leather Moto Jacket",
+      "type": "Jacket",
+      "price": "$129.99",
+      "rating": 4.9,
+      "brand": "Exquisite Wear",
+      "details": "Make a bold statement with this edgy leather moto jacket. Featuring a sleek silhouette and metallic hardware details, it adds instant attitude to any outfit. Crafted from premium leather, it's durable and timeless.",
+      "category": "regular"
+    },
+    {
+      "image": "https://example.com/image3.jpg",
+      "name": "Men's Slim-Fit Chino Pants",
+      "type": "Pants",
+      "price": "$49.99",
+      "rating": 4.6,
+      "brand": "Exquisite Wear",
+      "details": "Upgrade your casual wardrobe with these slim-fit chino pants. Versatile and comfortable, they're perfect for both work and weekend wear. Pair them with a button-down shirt for a polished look or dress them down with a T-shirt for a relaxed vibe.",
+      "category": "regular"
+    },
+    {
+      "image": "https://example.com/image4.jpg",
+      "name": "Women's Knit Sweater Dress",
+      "type": "Dress",
+      "price": "$69.99",
+      "rating": 4.7,
+      "brand": "Exquisite Wear",
+      "details": "Stay chic and cozy with this knit sweater dress. Featuring a flattering silhouette and stylish design, it's perfect for chilly days. Dress it up with boots and statement jewelry for a trendy ensemble.",
+      "category": "regular"
+    },
+    {
+      "image": "https://example.com/image5.jpg",
+      "name": "Men's Plaid Flannel Shirt",
+      "type": "Shirt",
+      "price": "$39.99",
+      "rating": 4.5,
+      "brand": "Exquisite Wear",
+      "details": "Add a touch of rugged charm to your wardrobe with this plaid flannel shirt. Made from soft, brushed cotton fabric, it offers warmth and comfort. Pair it with jeans for a classic, casual look.",
+      "category": "regular"
+    },
+    {
+      "image": "https://example.com/image6.jpg",
+      "name": "Women's High-Waisted Wide-Leg Pants",
+      "type": "Pants",
+      "price": "$59.99",
+      "rating": 4.8,
+      "brand": "Exquisite Wear",
+      "details": "Achieve a sophisticated look with these high-waisted wide-leg pants. Designed to elongate the silhouette, they offer a flattering fit and effortless style. Perfect for both office and evening wear.",
+      "category": "regular"
+    },
+    {
+      "image": "https://example.com/image7.jpg",
+      "name": "Men's V-Neck Cashmere Sweater",
+      "type": "Sweater",
+      "price": "$99.99",
+      "rating": 4.9,
+      "brand": "Exquisite Wear",
+      "details": "Indulge in luxury with this V-neck cashmere sweater. Crafted from premium cashmere yarn, it's incredibly soft and luxurious. Perfect for layering or wearing on its own, it's a timeless addition to any wardrobe.",
+      "category": "regular"
+    },
+    {
+      "image": "https://example.com/image8.jpg",
+      "name": "Women's Faux Leather Leggings",
+      "type": "Leggings",
+      "price": "$49.99",
+      "rating": 4.6,
+      "brand": "Exquisite Wear",
+      "details": "Add a dose of edge to your outfit with these faux leather leggings. Designed for both style and comfort, they're perfect for day-to-night wear. Pair them with a sweater for a casual look or dress them up with a blouse for a night out.",
+      "category": "regular"
+    },
+    {
+      "image": "https://example.com/image9.jpg",
+      "name": "Men's Slim-Fit Denim Jeans",
+      "type": "Jeans",
+      "price": "$69.99",
+      "rating": 4.7,
+      "brand": "Exquisite Wear",
+      "details": "Upgrade your denim collection with these slim-fit jeans. Made from high-quality denim fabric, they offer a comfortable fit and classic style. Pair them with a T-shirt for a casual look or dress them up with a button-down shirt.",
+      "category": "regular"
+    },
+    {
+      "image": "https://example.com/image10.jpg",
+      "name": "Women's Ribbed Knit Turtleneck Sweater",
+      "type": "Sweater",
+      "price": "$54.99",
+      "rating": 4.8,
+      "brand": "Exquisite Wear",
+      "details": "Stay cozy and chic with this ribbed knit turtleneck sweater. Crafted from soft, stretchy fabric, it offers warmth and comfort. Pair it with jeans for a casual look or dress it up with trousers for a polished ensemble.",
+      "category": "regular"
+    },
+    {
+      "image": "https://example.com/image11.jpg",
+      "name": "Men's Puffer Jacket",
+      "type": "Jacket",
+      "price": "$79.99",
+      "rating": 4.5,
+      "brand": "Exquisite Wear",
+      "details": "Stay warm and stylish with this puffer jacket. Featuring a quilted design and insulated fill, it offers superior warmth and protection against the elements. Perfect for outdoor adventures or everyday wear.",
+      "category": "regular"
+    },
+    {
+      "image": "https://example.com/image12.jpg",
+      "name": "Women's Wrap Dress",
+      "type": "Dress",
+      "price": "$79.99",
+      "rating": 4.7,
+      "brand": "Exquisite Wear",
+      "details": "Make a statement with this elegant wrap dress. Featuring a flattering silhouette and feminine details, it's perfect for both work and special occasions. Dress it up with heels and statement jewelry for a sophisticated look.",
+      "category": "regular"
+    },
+    {
+      "image": "https://example.com/image13.jpg",
+      "name": "Men's Performance Polo Shirt",
+      "type": "Shirt",
+      "price": "$34.99",
+      "rating": 4.6,
+      "brand": "Exquisite Wear",
+      "details": "Stay cool and comfortable with this performance polo shirt. Made from moisture-wicking fabric, it helps keep you dry and comfortable during physical activities. Perfect for sports, outdoor adventures, or casual wear.",
+      "category": "regular"
+    },
+    {
+      "image": "https://example.com/image14.jpg",
+      "name": "Women's Midi Skirt",
+      "type": "Skirt",
+      "price": "$44.99",
+      "rating": 4.8,
+      "brand": "Exquisite Wear",
+      "details": "Add a touch of elegance to your outfit with this midi skirt. Featuring a timeless silhouette and versatile design, it's perfect for both casual and dressy occasions. Pair it with a blouse for a polished look or a T-shirt for a more relaxed vibe.",
+      "category": "regular"
+    },
+    {
+      "image": "https://example.com/image15.jpg",
+      "name": "Men's Casual Joggers",
+      "type": "Pants",
+      "price": "$49.99",
+      "rating": 4.5,
+      "brand": "Exquisite Wear",
+      "details": "Upgrade your loungewear with these casual joggers. Made from soft, breathable fabric, they offer comfort and style. Perfect for relaxing at home or running errands in style.",
+      "category": "regular"
+    },
+    {
+      "image": "https://example.com/image16.jpg",
+      "name": "Women's Oversized Sweater",
+      "type": "Sweater",
+      "price": "$64.99",
+      "rating": 4.7,
+      "brand": "Exquisite Wear",
+      "details": "Stay cozy and chic with this oversized sweater. Featuring a relaxed fit and soft knit fabric, it's perfect for chilly days. Pair it with leggings for a casual look or dress it up with jeans and boots.",
+      "category": "regular"
+    },
+    {
+      "image": "https://example.com/image17.jpg",
+      "name": "Men's Classic Button-Down Shirt",
+      "type": "Shirt",
+      "price": "$44.99",
+      "rating": 4.6,
+      "brand": "Exquisite Wear",
+      "details": "Upgrade your wardrobe with this classic button-down shirt. Made from soft, breathable fabric, it offers comfort and style. Perfect for both work and casual wear.",
+      "category": "regular"
+    },
+    {
+      "image": "https://example.com/image18.jpg",
+      "name": "Women's Belted Trench Coat",
+      "type": "Coat",
+      "price": "$99.99",
+      "rating": 4.9,
+      "brand": "Exquisite Wear",
+      "details": "Stay stylish and sophisticated with this belted trench coat. Featuring a classic silhouette and adjustable waist belt, it's perfect for both rainy days and chilly evenings. Pair it with jeans and boots for a casual look or a dress for a more polished ensemble.",
+      "category": "regular"
+    },
+    {
+      "image": "https://example.com/image19.jpg",
+      "name": "Men's Slim-Fit Suit",
+      "type": "Suit",
+      "price": "$249.99",
+      "rating": 4.8,
+      "brand": "Exquisite Wear",
+      "details": "Make a statement with this slim-fit suit. Tailored for a modern silhouette, it offers a sleek and sophisticated look. Perfect for weddings, business meetings, or any formal occasion.",
+      "category": "regular"
+    },
+    {
+      "image": "https://example.com/image20.jpg",
+      "name": "Women's Ruffle Sleeve Blouse",
+      "type": "Blouse",
+      "price": "$39.99",
+      "rating": 4.7,
+      "brand": "Exquisite Wear",
+      "details": "Add a touch of romance to your outfit with this ruffle sleeve blouse. Featuring delicate ruffle details and a relaxed fit, it's perfect for both work and weekend wear. Pair it with trousers for a polished look or jeans for a more casual vibe.",
+      "category": "regular"
+    },
+    {
+      "image": "https://example.com/image21.jpg",
+      "name": "Men's Sport Performance Shorts",
+      "type": "Shorts",
+      "price": "$29.99",
+      "rating": 4.5,
+      "brand": "Exquisite Wear",
+      "details": "Stay comfortable and focused during your workouts with these sport performance shorts. Made from breathable, moisture-wicking fabric, they help keep you dry and comfortable. Perfect for running, training, or any other athletic activity.",
+      "category": "featured"
+    },
+    {
+      "image": "https://example.com/image22.jpg",
+      "name": "Women's Faux Fur Jacket",
+      "type": "Jacket",
+      "price": "$99.99",
+      "rating": 4.8,
+      "brand": "Exquisite Wear",
+      "details": "Make a statement with this luxurious faux fur jacket. Featuring a plush faux fur exterior and silky lining, it adds instant glamour to any outfit. Perfect for special occasions or adding a touch of elegance to your everyday look.",
+      "category": "featured"
+    },
+    {
+      "image": "https://example.com/image23.jpg",
+      "name": "Men's Classic Crew T-Shirt",
+      "type": "T-Shirt",
+      "price": "$19.99",
+      "rating": 4.7,
+      "brand": "Exquisite Wear",
+      "details": "Stock up on essentials with this classic crew T-shirt. Made from soft, breathable fabric, it offers comfort and style. Perfect for layering or wearing on its own, it's a wardrobe staple.",
+      "category": "featured"
+    },
+    {
+      "image": "https://example.com/image24.jpg",
+      "name": "Women's Belted Utility Jumpsuit",
+      "type": "Jumpsuit",
+      "price": "$79.99",
+      "rating": 4.6,
+      "brand": "Exquisite Wear",
+      "details": "Stay chic and practical with this belted utility jumpsuit. Featuring a functional design with multiple pockets and a waist belt, it's perfect for both work and play. Dress it up with heels for a night out or keep it casual with sneakers for everyday wear.",
+      "category": "featured"
+    },
+    {
+      "image": "https://example.com/image25.jpg",
+      "name": "Men's Performance Quarter-Zip Pullover",
+      "type": "Pullover",
+      "price": "$49.99",
+      "rating": 4.5,
+      "brand": "Exquisite Wear",
+      "details": "Stay warm and comfortable during your workouts with this performance quarter-zip pullover. Made from moisture-wicking fabric, it helps keep you dry and comfortable. Perfect for running, training, or any other athletic activity.",
+      "category": "featured"
+    },
+    {
+      "image": "https://example.com/image26.jpg",
+      "name": "Women's High-Waisted Flare Jeans",
+      "type": "Jeans",
+      "price": "$69.99",
+      "rating": 4.7,
+      "brand": "Exquisite Wear",
+      "details": "Channel retro vibes with these high-waisted flare jeans. Featuring a flattering fit and on-trend silhouette, they're perfect for adding a vintage-inspired touch to your outfit. Pair them with a crop top for a '70s-inspired look or a blouse for a more polished ensemble.",
+      "category": "featured"
+    },
+    {
+      "image": "https://example.com/image27.jpg",
+      "name": "Men's Classic V-Neck Sweater",
+      "type": "Sweater",
+      "price": "$54.99",
+      "rating": 4.6,
+      "brand": "Exquisite Wear",
+      "details": "Stay cozy and stylish with this classic V-neck sweater. Made from soft, breathable fabric, it offers warmth without sacrificing comfort. Perfect for layering or wearing on its own, it's a versatile addition to any wardrobe.",
+      "category": "featured"
+    },
+    {
+      "image": "https://example.com/image28.jpg",
+      "name": "Women's Fitted Blazer",
+      "type": "Blazer",
+      "price": "$89.99",
+      "rating": 4.8,
+      "brand": "Exquisite Wear",
+      "details": "Elevate your outfit with this fitted blazer. Featuring a tailored silhouette and sleek design, it adds polish and sophistication to any look. Perfect for both work and special occasions.",
+      "category": "featured"
+    }
+  ]
+  
